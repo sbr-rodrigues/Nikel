@@ -30,7 +30,7 @@ Este projeto faz parte da formação Codaí 2.0 - Front-End, que tem como propó
 
 📦 Como Executar
 - Clone o repositório:
-git clone https://github.com/sbr-rodrigues/Nikel.git
+git clone https://github.com/sbr-rodrigues/Nikel
 - Abra o arquivo index.html em seu navegador.
 - Crie uma conta e comece a gerenciar seus lançamentos.
 
